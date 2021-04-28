@@ -1,0 +1,38 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="../css/blooming.css" />
+    <title>Events</title>
+  </head>
+  <body>
+    </h2>
+    <section class="container">
+      <img src="../img/normal.png" id="myImage" />
+      <p onclick="blooming()">Click here!</p>
+    </section>
+
+    <!-- Paste your code in the script element below:  -->
+    <script>
+      function blooming() {
+        var image = document.getElementById("myImage");
+        if (image.src.match("normal")) {
+          image.src = "../img/flower.png";
+        } else {
+          image.src = "../img/normal.png";
+        }
+      }
+    </script>
+    <footer>
+      <h3>
+        This was the embedded JS example of index.html. Actually this is just an
+        heading with no JS but some new CSS, just to test if I'm able to connect
+        another css-sheet to this other page correctly. And as you can see the
+        answer is: yes! 🎉
+      </h3>
+      <h3>Go back <a href="../index.html">Home</a>!</h3>
+    </footer>
+  </body>
+</html>
