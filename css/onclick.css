@@ -1,15 +1,21 @@
 p {
   font-family: "Inknut Antiqua", serif;
+  font-family: "Raleway", sans-serif;
+  font-family: "Staatliches", cursive;
+  font-size: 3vw;
   margin: 3vw;
-  background-color: tomato;
-  padding: 2vw;
-  border-radius: 1vw;
-  width: 50%;
-  border: pink solid 3px;
+  /* background-color: tomato; */
+  /* padding: 2vw; */
+  /* border-radius: 1vw; */
+  /* width: 20%; */
+  /* border: pink solid 3px; */
 }
 
 button {
   font-family: "Inknut Antiqua", serif;
+  font-family: "Raleway", sans-serif;
+  font-family: "Staatliches", cursive;
+
   height: 15vw;
   width: 25vw;
   border-radius: 1vw;
@@ -18,9 +24,10 @@ button {
 
 h1 {
   color: black;
-  font-size: 10vw;
+  font-size: 8vw;
   margin: 3vw;
 
   font-family: "UnifrakturCook", cursive;
+  font-family: "Staatliches", cursive;
   /* font-family: "UnifrakturMaguntia", cursive; */
 }
