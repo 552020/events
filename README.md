@@ -1,6 +1,10 @@
 # content
 
-Goal of the project is to better understand how events work.
+The general goal of the project is to better understand how events work.
+The precise goal is to be able to modify [my first CRA react app](https://github.com/552020/hello-react) so that it chooses a random link from an preselection of links to which the user is redirected when "Learn React" is clicked.
+
+The path of the journey. I went back to the lessons of the Codecademy course, that treat the events.
+The different pages in this project are elaboration of exercises of the course.
 
 # status
 

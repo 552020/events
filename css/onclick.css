@@ -1,0 +1,26 @@
+p {
+  font-family: "Inknut Antiqua", serif;
+  margin: 3vw;
+  background-color: tomato;
+  padding: 2vw;
+  border-radius: 1vw;
+  width: 50%;
+  border: pink solid 3px;
+}
+
+button {
+  font-family: "Inknut Antiqua", serif;
+  height: 15vw;
+  width: 25vw;
+  border-radius: 1vw;
+  margin: 3vw;
+}
+
+h1 {
+  color: black;
+  font-size: 10vw;
+  margin: 3vw;
+
+  font-family: "UnifrakturCook", cursive;
+  /* font-family: "UnifrakturMaguntia", cursive; */
+}
