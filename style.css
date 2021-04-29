@@ -1,0 +1,46 @@
+body {
+  background-color: pink;
+  background-color: salmon;
+  background-color: springgreen;
+  background-color: turquoise;
+}
+
+h1 {
+  font-family: "UnifrakturCook", cursive;
+  font-family: "UnifrakturMaguntia", cursive;
+
+  font-family: "Inknut Antiqua", serif;
+}
+
+#ereignis {
+  font-family: "UnifrakturCook", cursive;
+  /* font-family: "Inknut Antiqua", serif; */
+  font-family: "UnifrakturMaguntia", cursive;
+  color: blueviolet;
+  color: aquamarine;
+  color: chartreuse;
+  color: darkorange;
+  color: coral;
+  color: darksalmon;
+  color: cyan;
+  /* color: darkred; */
+  font-size: 8vw;
+  padding: 3vw;
+}
+
+header {
+  background-color: pink;
+  background-color: chartreuse;
+  background-color: darkblue;
+  border-radius: 1.5vw;
+}
+
+p {
+  font-family: "Inknut Antiqua", serif;
+}
+
+main {
+  padding: 3vw;
+  background-color: tomato;
+  border-radius: 1.5vw;
+}
